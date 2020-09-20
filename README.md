@@ -8,14 +8,19 @@ You will find this ROTMG folder in your "Documents" / "My Documents" directory. 
 
 ![documents](./images/documents.png)   
 
+___
+
 ![create_shortcut](./images/create_shortcut.png)   
 
 Create a new shortcut.  We will drag it to our desktop.
+
+___
 
 ![click_properties](./images/click_properties.png)   
 
 Right click on the shortcut which is now on our desktop, and click "properties", which is the last selection.
 
+___
 
 ![data_stuff](./images/data_stuff.png)   
 
