@@ -32,9 +32,13 @@ We will take the username and password for the specific account we want this sho
 
 NEVER SHARE the following information with anyone, as it is literally your account sign in information.  Anyone with this information will be able to sign onto your account, so please be careful.  Don't give it to anyone you wouldn't give your literal password.
 
+___
+
 ![base64_encode](./images/base64_encode.png)   
 
 Visit this website, and select the encode option at the top to begin.  Any other similar utility will work fine, this was just the first one I happened to find.
+
+___
 
 ![put_in_email](./images/put_in_email.png)   
 
@@ -42,17 +46,23 @@ Obviously this is not my real email address, but you will need to put your real 
 
 Simply type it in then click encode.
 
+___
+
 ![encoded_email](./images/encoded_email.png)   
 
 Here is what I received.  Your result will also end with two equal sign characters "==".  
 
 This is what we are going to copy and paste into the text we already put into a word document earlier.
 
+___
+
 ![replace_guid_with_encoded_email](./images/replace_guid_with_encoded_email.png)   
 
 As you can see, I deleted the placeholder text from before, and inserted exactly what we just encoded our email into.
 
 I do not show the steps for password.  They are exactly the same, and you need to only replace your email at the top of the page with your password, and encode it in the same fashion.
+
+___
 
 ![paste_it_in](./images/paste_it_in.png)   
 
